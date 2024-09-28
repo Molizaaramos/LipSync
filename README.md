@@ -13,7 +13,6 @@ Software Requirements
 Hardware Requirements
 
     CPU: Multi-core processor recommended for faster training
-    GPU: NVIDIA GPU with at least 4GB VRAM recommended for model training (CUDA compatible)
     RAM: At least 8GB of RAM
 
 Dataset Details
